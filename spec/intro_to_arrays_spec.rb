@@ -39,7 +39,7 @@ describe "working with arrays" do
 
   context 'indexing' do
     before(:each) do
-      @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+      @taylor_swift = 
     end
     
     describe "#first_element" do
